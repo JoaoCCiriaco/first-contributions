@@ -7573,3 +7573,4 @@ add-pranav
  - [Wu Wenmao](https://github.com/what881)
 - [Ekrem Çakır](https://github.com/ekrmcakir)
 - [Anurag Kulkarni](https://github.com/anuragkulk)
+- [João Ciriaco](https://github.com/JoaoCCiriaco) - Software Developer | Python, Systems & Data | Brazil 🇧🇷
